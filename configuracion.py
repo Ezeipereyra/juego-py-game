@@ -3,7 +3,7 @@ from collections import namedtuple
 TAMANNO_LETRA = 20
 TAMANNO_LETRA_COUNT = 25
 TAMANNO_CANDIDATA = 22
-FPS_inicial = 60
+FPS_inicial = 5
 TIEMPO_MAX = 20
 
 ANCHO = 1280
